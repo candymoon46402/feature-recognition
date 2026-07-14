@@ -1,4 +1,4 @@
-# Machining Feature Recognition and Parametric Semantics Extraction from STEP Models for Process Planning
+# A Geometry-Topology Framework for Machining Feature Recognition and Parametric Semantics Extraction from STEP Models
 
 This project implements a machining feature recognition pipeline based on STEP
 B-Rep geometry and topology using OpenCascade (pythonOCC). It reads STEP
